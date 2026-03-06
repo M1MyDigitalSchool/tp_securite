@@ -9,4 +9,4 @@ Les comptes (user/password) :
 - bob/bob123
 - admin/admin
 
-Il faut faire un audit complet de sécurité sur ce projet PHP dans un fichier nommé 'reponses.md'
+Il faut faire un audit complet de sécurité sur ce projet PHP dans un fichier nommé 'reponses.md', puis il faut corriger ces failles de sécurité.
